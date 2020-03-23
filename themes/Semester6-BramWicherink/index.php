@@ -1,0 +1,1 @@
+<?php echo 'Dit is het S6 thema van Bram Wicherink'; ?>
